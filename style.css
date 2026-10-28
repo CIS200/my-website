@@ -1231,6 +1231,10 @@ nav.nav-light .nav-logo {
     max-height: 28px;
 }
 
+.firm-logo img[src*="warburg_pincus.png"] {
+    max-height: 60px;
+}
+
 @keyframes marquee {
     0% { transform: translateX(0); }
     100% { transform: translateX(-50%); }
